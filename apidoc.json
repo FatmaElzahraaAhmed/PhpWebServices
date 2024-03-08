@@ -1,0 +1,8 @@
+{
+    "name": "glass API",
+    "version": "1.0.0",
+    "description": "Users API description",
+    "title": "glass API",
+    "url": "https://localhost:3000/RESTful.php",
+    "sampleUrl": true
+}
